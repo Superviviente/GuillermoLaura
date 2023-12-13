@@ -2,7 +2,8 @@
 
 Tribute Page a Guillermo Laura
 
-![image](https://github.com/Superviviente/Laura/assets/134186682/61a08a96-4400-4a7a-bce9-6ef3caa9cd9b)
+![image]([https://seul.ar/wp-content/uploads/2023/07/Ledesma-300723-1.png])
+
 
 Ejercicio de construcción de una Tribute Page, donde se utilizó HTML y CSS.
 
