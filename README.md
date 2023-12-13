@@ -3,7 +3,7 @@
 Tribute Page a Guillermo Laura
 
 
-<img width=600 height= 400 src="https://github.com/Pedro410Ar/TributeFagioli/blob/master/img/Portada-Fagioli.jpg"/>
+<img width=600 height= 400 src="https://github.com/Superviviente/GuillermoLaura/blob/main/img/sonador.png"/>
 
 https://github.com/Superviviente/GuillermoLaura/blob/main/img/sonador.png 
 
