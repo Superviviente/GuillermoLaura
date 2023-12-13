@@ -1,0 +1,97 @@
+main{
+    background: #eee;
+    
+}
+
+header{
+    text-align: center;
+    background: #eee;
+    height: 550px;
+    margin-bottom: 30px;
+}
+
+#title{
+    font-family: 'Anek Latin', sans-serif;
+    font-size: 45px;
+    height: 50px;
+}
+
+.subtitulo{
+    font-size: 26px;
+    height: 50px;
+    font-style: italic;    
+}
+
+#img{
+    width: 530px;
+    height: 320px;
+    border-radius: 90px;
+}
+
+
+
+#image{
+    width: 400px;
+    height: 490px;
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-left: 37%;
+    
+}
+
+#img-caption{
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+#tribute-info{
+    width: 50%;
+    margin-left: 27%;
+    font-size: 18px;
+}
+
+h2{
+    width: 50%;
+    margin-left: 27%;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: 'Anek Latin', sans-serif;
+}
+
+.video{
+    background: rgb(255, 255, 255) ;
+    height: 500px;
+    width: 80%;
+    text-align: center;
+    padding-top: 50px;
+    
+    margin-left: 180px;
+   
+}
+
+.frase_final{
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    
+}
+
+.autor{
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    height: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    font-family: 'Anek Latin', sans-serif;
+    background: #eee;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+   
+}
