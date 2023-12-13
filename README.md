@@ -5,7 +5,6 @@ Tribute Page a Guillermo Laura
 
 <img width=600 height= 400 src="https://github.com/Superviviente/GuillermoLaura/blob/main/img/sonador.png"/>
 
-https://github.com/Superviviente/GuillermoLaura/blob/main/img/sonador.png 
 
 Ejercicio de construcción de una Tribute Page, donde se utilizó HTML y CSS.
 
