@@ -2,8 +2,10 @@
 
 Tribute Page a Guillermo Laura
 
-![image]([https://seul.ar/wp-content/uploads/2023/07/Ledesma-300723-1.png])
 
+<img width=600 height= 400 src="https://github.com/Pedro410Ar/TributeFagioli/blob/master/img/Portada-Fagioli.jpg"/>
+
+https://github.com/Superviviente/GuillermoLaura/blob/main/img/sonador.png 
 
 Ejercicio de construcción de una Tribute Page, donde se utilizó HTML y CSS.
 
